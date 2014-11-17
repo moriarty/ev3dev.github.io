@@ -11,9 +11,6 @@ building_instructions_url: "https://github.com/moriarty/ros-ev3/blob/master/bric
 
 - **Name:** Alexander Moriarty
 - **Location:** Cologne, Germany 
-{% comment %}
-- **Pictures and media:** Todo: make something cool
-{% endcomment %}
 - **Feedback:** https://github.com/moriarty/ros-ev3/issues
 - **Project Status::** work in progress (on pause)
 
